@@ -21,10 +21,7 @@ public class SaveStudentOrder
 //        StudentOrder so = new StudentOrder();
 //        long ans = saveStudentOrder(so);
 //        System.out.println(ans);
-        System.out.println();
-        System.out.println();
-
-        System.out.println();
+        
     }
 
     public static long saveStudentOrder(StudentOrder studentOrder) {
